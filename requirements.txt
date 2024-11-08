@@ -1,0 +1,6 @@
+torch>=1.10.0
+transformers>=4.30.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+tqdm>=4.60.0
+bitsandbytes>=0.37.0  # For quantization support with Hugging Face
