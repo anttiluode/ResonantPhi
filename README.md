@@ -8,8 +8,7 @@ ResonantPhi combines the power of Microsoft’s Phi-2 model with an added layer 
 
 - **Wave Neuron Layer**: Introduces resonant neurons that adapt frequencies based on input, adding oscillatory dynamics.
 - **Flexible Frequency and Phase Parameters**: The layer allows customizable wave parameters to experiment with different resonance behaviors.
-- **Enhanced Natural Language Processing**: Wave-based modulation aims to improve nuanced and contextually aware AI responses.
-
+- **Enhanced Natural Language Processing**: Wave-based modulation changes responses. 
 ## Installation
 
 1. Clone the repository:
